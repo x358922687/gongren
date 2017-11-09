@@ -49,6 +49,10 @@
     self.iconView.frame = CGRectMake(0, 0, SCREEN_WEIGHT, self.height);
 }
 
+- (void)setImgName:(NSString *)imgName{
+    
+}
+
 //- (void)setImgName:(NSString *)imgName
 //{
 //    [self.iconView setImageWithURL:[NSURL URLWithString:imgName] placeholderImage:[UIImage imageWithColor:[UIColor whiteColor]]];
